@@ -109,9 +109,9 @@ Ensure file paths in the notebooks match your local directory.
 
 ### 3. Run notebooks (in order)
 HTX_EDA_and_Modeling.ipynb
-
 HTX_Linkanalysis.ipynb
 
+The data `df_full` used for the second notebook `HTX_Linkanalysis.ipynb`  was generated via the first notebook `HTX_EDA_and_Modeling.ipynb`
 Notes
 
 This repository focuses on modeling logic, analysis, and interpretation.
