@@ -1,0 +1,147 @@
+MRT_name,Station_code,mrt_start_year,mrt_line_type
+Jurong East,NS1,1990,NS
+Bukit Batok,NS2,1990,NS
+Bukit Gombak,NS3,1990,NS
+Choa Chu Kang,NS4,1990,NS
+Yew Tee,NS5,1996,NS
+Kranji,NS7,1996,NS
+Marsiling,NS8,1996,NS
+Woodlands,NS9,1996,NS
+Admiralty,NS10,1996,NS
+Sembawang,NS11,1996,NS
+Canberra,NS12,2019,NS
+Yishun,NS13,1988,NS
+Khatib,NS14,1988,NS
+Yio Chu Kang,NS15,1987,NS
+Ang Mo Kio,NS16,1987,NS
+Bishan,NS17,1987,NS
+Braddell,NS18,1987,NS
+Toa Payoh,NS19,1987,NS
+Novena,NS20,1987,NS
+Newton,NS21,1987,NS
+Orchard,NS22,1987,NS
+Somerset,NS23,1987,NS
+Dhoby Ghaut,NS24,1987,NS
+City Hall,NS25,1987,NS
+Raffles Place,NS26,1987,NS
+Marina Bay,NS27,1989,NS
+Marina South Pier,NS28,2014,NS
+Pasir Ris,EW1,1989,EW
+Tampines,EW2,1989,EW
+Simei,EW3,1989,EW
+Tanah Merah,EW4,1989,EW
+Bedok,EW5,1989,EW
+Kembangan,EW6,1989,EW
+Eunos,EW7,1989,EW
+Paya Lebar,EW8,1989,EW
+Aljunied,EW9,1989,EW
+Kallang,EW10,1989,EW
+Lavender,EW11,1989,EW
+Bugis,EW12,1989,EW
+City Hall,EW13,1987,EW
+Raffles Place,EW14,1987,EW
+Tanjong Pagar,EW15,1987,EW
+Outram Park,EW16,1987,EW
+Tiong Bahru,EW17,1988,EW
+Redhill,EW18,1988,EW
+Queenstown,EW19,1988,EW
+Commonwealth,EW20,1988,EW
+Buona Vista,EW21,1988,EW
+Dover,EW22,2001,EW
+Clementi,EW23,1988,EW
+Jurong East,EW24,1988,EW
+Chinese Garden,EW25,1988,EW
+Lakeside,EW26,1988,EW
+Boon Lay,EW27,1990,EW
+Pioneer,EW28,2009,EW
+Joo Koon,EW29,2009,EW
+Gul Circle,EW30,2017,EW
+Tuas Crescent,EW31,2017,EW
+Tuas West Road,EW32,2017,EW
+Tuas Link,EW33,2017,EW
+Expo,CG1,2001,EW
+Changi Airport,CG2,2002,EW
+HarbourFront,NE1,2003,NE
+Outram Park,NE3,2003,NE
+Chinatown,NE4,2003,NE
+Clarke Quay,NE5,2003,NE
+Dhoby Ghaut,NE6,2003,NE
+Little India,NE7,2003,NE
+Farrer Park,NE8,2003,NE
+Boon Keng,NE9,2003,NE
+Potong Pasir,NE10,2003,NE
+Woodleigh,NE11,2011,NE
+Serangoon,NE12,2003,NE
+Kovan,NE13,2003,NE
+Hougang,NE14,2003,NE
+Buangkok,NE15,2006,NE
+Sengkang,NE16,2003,NE
+Punggol,NE17,2003,NE
+Punggol Coast,NE18,2024,NE
+Bukit Panjang,DT1,2015,DT
+Cashew,DT2,2015,DT
+Hillview,DT3,2015,DT
+Beauty World,DT5,2015,DT
+King Albert Park,DT6,2015,DT
+Sixth Avenue,DT7,2015,DT
+Tan Kah Kee,DT8,2015,DT
+Botanic Gardens,DT9,2015,DT
+Stevens,DT10,2015,DT
+Newton,DT11,2015,DT
+Little India,DT12,2015,DT
+Rochor,DT13,2015,DT
+Bugis,DT14,2013,DT
+Promenade,DT15,2013,DT
+Bayfront,DT16,2013,DT
+Downtown,DT17,2013,DT
+Telok Ayer,DT18,2013,DT
+Chinatown,DT19,2013,DT
+Fort Canning,DT20,2017,DT
+Bencoolen,DT21,2017,DT
+Jalan Besar,DT22,2017,DT
+Bendemeer,DT23,2017,DT
+Geylang Bahru,DT24,2017,DT
+Mattar,DT25,2017,DT
+MacPherson,DT26,2017,DT
+Ubi,DT27,2017,DT
+Kaki Bukit,DT28,2017,DT
+Bedok North,DT29,2017,DT
+Bedok Reservoir,DT30,2017,DT
+Tampines West,DT31,2017,DT
+Tampines,DT32,2017,DT
+Tampines East,DT33,2017,DT
+Upper Changi,DT34,2017,DT
+Expo,DT35,2017,DT
+Dhoby Ghaut,CC1,2010,CC
+Bras Basah,CC2,2010,CC
+Esplanade,CC3,2010,CC
+Promenade,CC4,2010,CC
+Nicoll Highway,CC5,2010,CC
+Stadium,CC6,2010,CC
+Mountbatten,CC7,2010,CC
+Dakota,CC8,2010,CC
+Paya Lebar,CC9,2010,CC
+MacPherson,CC10,2010,CC
+Tai Seng,CC11,2010,CC
+Bartley,CC12,2009,CC
+Serangoon,CC13,2009,CC
+Lorong Chuan,CC14,2009,CC
+Bishan,CC15,2009,CC
+Marymount,CC16,2009,CC
+Caldecott,CC17,2011,CC
+Botanic Gardens,CC19,2011,CC
+Farrer Road,CC20,2011,CC
+Holland Village,CC21,2011,CC
+Buona Vista,CC22,2011,CC
+one-north,CC23,2011,CC
+Kent Ridge,CC24,2011,CC
+Haw Par Villa,CC25,2011,CC
+Pasir Panjang,CC26,2011,CC
+Labrador Park,CC27,2011,CC
+Telok Blangah,CC28,2011,CC
+HarbourFront,CC29,2011,CC
+Bayfront,CE1,2012,CC
+Marina Bay,CE2,2012,CC
+Woodlands North,TE1,2020,TE
+Woodlands,TE2,2020,TE
+Woodlands South,TE3,2020,TE
