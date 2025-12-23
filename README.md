@@ -32,7 +32,7 @@ The `data` folder contains supporting datasets used for feature engineering:
 
 > **Note:** Raw HDB resale transaction data is **not included** and should be provided by the user.
 
----
+```
 
 ## Setup Instructions
 
@@ -101,45 +101,16 @@ Launch Jupyter Notebook
 jupyter notebook
 
 
-2. Prepare data
+### 2. Prepare data
 
 Place the HDB resale transaction dataset under the data/ folder.
 
 Ensure file paths in the notebooks match your local directory.
 
-3. Run notebooks (in order)
-
+### 3. Run notebooks (in order)
 HTX_EDA_and_Modeling.ipynb
 
-Data exploration
-
-Feature engineering
-
-Ridge Regression (baseline)
-
-XGBoost Regression (advanced model)
-
-Model evaluation and findings
-
 HTX_Linkanalysis.ipynb
-
-Graph construction based on listing similarity
-
-Connected components analysis
-
-Degree centrality 
-
-Interpretation of graph-based insights
-
-Outputs
-
-Model evaluation metrics (MAE, RMSE, R²)
-
-Feature importance and visualizations
-
-Graph statistics and network visualizations
-
-Slides summarizing assumptions, methodology, results
 
 Notes
 
