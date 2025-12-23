@@ -13,12 +13,14 @@ This repository contains the solution for the **Model Prediction** and **Link An
 
 ## Repository Structure
 
-├── HTX_EDA_and_Modeling.ipynb # Data exploration, feature engineering, and price prediction models
-├── HTX_Linkanalysis.ipynb # Graph construction and link analysis
-├── data/ # Supporting datasets (see below)
-├── requirements.txt # Python dependencies
-├── hdb_analysis_slides.pdf # Presentation slides for interview discussion
-└── README.md
+```text
+.
+├── HTX_EDA_and_Modeling.ipynb        # Data exploration, feature engineering, and price prediction models
+├── HTX_Linkanalysis.ipynb            # Graph construction and link analysis
+├── hdb_analysis_slides.pdf           # Presentation slides for interview discussion
+├── requirements.txt                  # Python dependencies
+├── README.md
+└── data/                             # Supporting datasets (see below)
 
 
 ### `data/` folder contents
